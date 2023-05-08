@@ -31,6 +31,14 @@ To run NotesPy, navigate to the NotesPy directory and run the following command:
 ```
 python3 main.py
 ```
+## Demo
+### Login Page
+![Screenshot (289)](https://user-images.githubusercontent.com/83868776/236869723-3d73bac7-0d4d-43c1-892d-21be8e1b2167.png)
+### Sign-Up
+![Screenshot (290)](https://user-images.githubusercontent.com/83868776/236869729-af58952f-7ef3-4230-9c7b-abe757a97550.png)
+### Notes
+![Screenshot (293)](https://user-images.githubusercontent.com/83868776/236869733-dba3fffd-c11e-4fde-8c8e-7563666dcc59.png)
+
 
 This will start the program and display the main menu. From here, you can create a new note, view existing notes, update a note, or delete a note.
 
