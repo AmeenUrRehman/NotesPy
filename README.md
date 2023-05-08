@@ -47,9 +47,6 @@ To view existing notes, select option 2 from the main menu. The program will dis
 
 To delete a note, select option 4 from the main menu. The program will display a list of all the notes that you have created. You can select a note from the list to delete it.
 
-### Quit the program
-
-To quit the program, select option 5 from the main menu.
 
 ## License
 
